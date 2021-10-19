@@ -1,1 +1,2 @@
-Software Developer/DevOps Engineer. Enthusiastic about cloud services, containers, pipelines, etc. ☺
+Software Developer/DevOps Engineer. Enthusiastic about cloud services, developer patterns, pipelines, etc. ☺
+
